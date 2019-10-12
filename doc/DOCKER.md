@@ -1,5 +1,5 @@
 # Docker
-[官方解说](https://www.docker.com/why-docker)：
+[官方](https://www.docker.com/why-docker)：
 
 Only independent container platform that enables organizations to seamlessly build, share and run any application, anywhere—from hybrid cloud to the edge.
 
@@ -16,7 +16,7 @@ Docker 是一个开源的应用容器引擎，让开发者可以打包他们的�
 
 # 镜像 / IMAGES
   
-[官方解说](https://docs.docker.com/engine/docker-overview/):
+[官方](https://docs.docker.com/engine/docker-overview/):
   
 An image is a read-only template with instructions for creating a Docker container. Often, an image is based on another image, with some additional customization. For example, you may build an image which is based on the ubuntu image, but installs the Apache web server and your application, as well as the configuration details needed to make your application run.
 
@@ -25,7 +25,7 @@ You might create your own images or you might only use those created by others a
 
      
 # 容器 / CONTAINERS
-[官方解说](https://docs.docker.com/engine/docker-overview/):
+[官方](https://docs.docker.com/engine/docker-overview/):
 
 A container is a runnable instance of an image. You can create, start, stop, move, or delete a container using the Docker API or CLI. You can connect a container to one or more networks, attach storage to it, or even create a new image based on its current state.
 
