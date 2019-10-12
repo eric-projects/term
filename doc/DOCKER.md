@@ -32,3 +32,10 @@ A container is a runnable instance of an image. You can create, start, stop, mov
 By default, a container is relatively well isolated from other containers and its host machine. You can control how isolated a container’s network, storage, or other underlying subsystems are from other containers or from the host machine.
 
 A container is defined by its image as well as any configuration options you provide to it when you create or start it. When a container is removed, any changes to its state that are not stored in persistent storage disappear.
+
+
+# 资料
+
+https://www.docker.com/
+https://blog.csdn.net/FL63Zv9Zou86950w/article/details/94366845
+https://baike.baidu.com/item/Docker/13344470?fr=aladdin
